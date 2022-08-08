@@ -1,5 +1,5 @@
 {
-  "name": "proteusthemes/merlin-wp",
+  "name": "madebyless/merlin-wp",
   "description": "Better WordPress Theme Onboarding.",
   "keywords": ["wp", "wordpress", "theme", "onboarding", "import", "content"],
   "license": "GPL-3.0+",
@@ -11,6 +11,10 @@
     {
       "name"     : "ProteusThemes",
       "homepage" : "https://www.proteusthemes.com/"
+    },
+    {
+      "name"     : "Made by Less",
+      "homepage" : "https://madebyless.com"
     }
   ],
   "require": {
